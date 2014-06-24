@@ -150,7 +150,7 @@ jQuery(function($){
 
 
 				source += '<dd>';
-				source += this.description;
+				//source += this.description;
 				source += this.content_notag;
 				source += '</dd>';
 

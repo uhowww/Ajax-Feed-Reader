@@ -59,6 +59,9 @@ Modify the phrase
 = 2 =
 All new
 
+= 2.0.1 =
+コンテンツにHTMLタグの含まれた内容がセットされていたので、HTMLタグの無いコンテンツに変更。
+
 == Arbitrary section ==
 
 Option of short code.

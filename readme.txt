@@ -4,7 +4,7 @@ Donate link: https://github.com/uhowww/Ajax-Feed-Reader
 Tags: feed,RSS,AJAX
 Requires at least: 2.6
 Tested up to: 3.2.1
-Stable tag: 2
+Stable tag: 2.0.1
 
 You can add a Feed very easily.
 

@@ -3,7 +3,7 @@
 Plugin Name: Ajax Feed Reader
 Plugin URI: https://github.com/uhowww/Ajax-Feed-Reader
 Description: Feed reader plug-in.
-Version: 2
+Version: 2.0.1
 Author: Takumi Kumagai
 Author URI: http://taku-min.net/
 License: GPL2
